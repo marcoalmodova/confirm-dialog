@@ -1,0 +1,20 @@
+<!--
+ - Created by marcoalmodova on 23/02/2020.
+ -->
+
+<!-- Parent Component -->
+<template>
+    <lightning-card title="Testing Confirmation Dialog" icon-name="custom:custom60">
+        <lightning-button label="Open Confirmation" slot="actions" onclick={handleClick} name="openConfirmation"></lightning-button>
+        <div class="slds-text-body_regular slds-p-around--small">{displayMessage}</div>
+    </lightning-card>
+    <c-confirmation-dialog title='Confirmation Title'
+                           message='Do you want to proceed?'
+                           confirm-label='Yes'
+                           cancel-label='No'
+                           visible={isDialogVisible}
+                           original-message={originalMessage}
+                           name="confirmModal"
+                           onclick={handleClick}>
+    </c-confirmation-dialog>
+</template>

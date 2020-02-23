@@ -2,7 +2,10 @@
 <module type="IlluminatedCloud" version="4">
   <component name="FacetManager">
     <facet type="IlluminatedCloud" name="Illuminated Cloud">
-      <configuration />
+      <configuration>
+        <option name="connectionName" value="confirm-dialog" />
+        <option name="connectionType" value="SFDX" />
+      </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
@@ -11,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/force-app/main/default" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/config" type="java-resource" />
     </content>
+    <orderEntry type="jdk" jdkName="IlluminatedCloud (confirm-dialog/confirm-dialog)" jdkType="IlluminatedCloud" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
