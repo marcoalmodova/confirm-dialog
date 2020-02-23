@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9a12361-f784-4b64-aeca-dbf1e5e1e5dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="moduleWorkspaceSettings">
+      <map>
+        <entry key="confirm-dialog">
+          <value>
+            <ModuleWorkspaceSettings>
+              <option name="moduleContentsLastModified" value="1582471094422" />
+              <option name="serverMetadataLastPopulated" value="1582471094422" />
+            </ModuleWorkspaceSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YDJAAX24OVGxaDDaXm6UIlj68J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9a12361-f784-4b64-aeca-dbf1e5e1e5dc" name="Default Changelist" comment="" />
+      <created>1582471085803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582471085803</updated>
+      <workItem from="1582471093423" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Illuminated_Cloud_(confirm-dialog)" timestamp="1582471100716">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Illuminated_Cloud_(confirm-dialog)/0.0.1680.1050@0.0.1680.1050" timestamp="1582471100716" />
+  </component>
+</project>
