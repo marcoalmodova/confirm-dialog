@@ -25,7 +25,7 @@ export default class ParentComponent extends LightningElement {
                 //you can do some custom logic here based on your scenario
                 if(event.detail.status === 'confirm') {
                     //do something
-                }else{
+                }else if(event.detail.status === 'cancel'){
                     //do something else
                 }
             }
