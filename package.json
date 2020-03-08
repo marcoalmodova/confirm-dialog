@@ -1,0 +1,24 @@
+{
+  "name": "confirm-dialog",
+  "version": "1.0.0",
+  "description": "LWC Confirmation Dialog",
+  "main": "index.js",
+  "scripts": {
+    "test:unit": "sfdx-lwc-jest",
+    "test:unit:watch": "sfdx-lwc-jest --watch",
+    "test:unit:debug": "sfdx-lwc-jest --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoalmodova/confirm-dialog.git"
+  },
+  "author": "Marco Almodova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcoalmodova/confirm-dialog/issues"
+  },
+  "homepage": "https://github.com/marcoalmodova/confirm-dialog#readme",
+  "devDependencies": {
+    "@salesforce/sfdx-lwc-jest": "^0.7.0"
+  }
+}
