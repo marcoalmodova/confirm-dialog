@@ -14,7 +14,7 @@ Just push the LWC metadata to your org and you can use it like the below example
                            visible={isDialogVisible}
                            original-message={originalMessage}
                            name="confirmModal"
-                           onclick={handleClick}>
+                           onmodalaction={handleClick}>
 ```
 
 You can also check the parentComponent LWC that is a live example of how to use the dialog.
